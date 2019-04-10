@@ -1,0 +1,37 @@
+
+/*轮播图*/
+.lun{width: 100%; position: absolute;z-index: 1;}
+.lun img{width: 100%;}
+/*小球*/
+.qiu_ul{width:100px;height: 50px;z-index: 999;position: absolute;margin-left: 700px;margin-top: 600px;}
+.qiu_ul ul{display: flex;justify-content: space-around;}
+.qiu_ul li{width: 10px; height: 10px;border-radius: 50px;background-color: #aaa9aa;}
+.qiu_ul ul li:nth-child(1){background-color: white;}
+
+.an_back{width: 100%;background-color: #efefef;}
+.an{width: 1200px; border: 1ox solid black;margin: auto;}
+.an_ul ul{display: flex; justify-content: space-around;}
+.an_ul li{}
+.an_back:after{content: " "; display: block; clear: both;}
+
+.main{width: 1200px; margin: auto;}
+.main_ul1{}
+.main_ul1 ul{display: flex; justify-content: space-around;}
+.main_ul1 li{border: 1px solid black; width: 379px; height: 373px;}
+.main_ul1 li img{width: 379px;height: 250px;}
+.main_ul1 li hr{display: block;margin-left: 19px;margin-top: 7px;}
+.main_ul1 li span{margin-top: 3px;}
+
+.main_ul2{margin-top: 20px;}
+.main_ul2 ul{display: flex; justify-content: space-around;}
+.main_ul2 li{border: 1px solid black; width: 379px; height: 373px;}
+.main_ul2 li img{width: 379px;height: 250px;}
+.main_ul2 li hr{display: block;margin-left: 19px;margin-top: 7px;}
+.main_ul2 li span{margin-top: 3px;}
+
+.jian{width: 1200px; margin: auto;}
+.jian_l{width: 50px;height: 20px;border: 1px solid black;margin-left: 530px;cursor: pointer;}
+.jian_l span{margin-left: 20px; }
+
+.jian_r{width: 50px;height: 20px;border: 1px solid black;margin-left: 600px;margin-top: -22px;cursor: pointer;}
+.jian_r span{margin-left: 20px; }

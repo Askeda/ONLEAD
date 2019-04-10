@@ -1,0 +1,21 @@
+/*头部*/
+.header{width: 100%;height: 74px;background-color: #ffffff;}
+/*logo*/
+.header_logo{margin-left: 281px; display: block;}
+.header_logo img{width: 158px;height: 74px;}
+/*导航左边*/
+.fixed a{text-decoration: none;color: black;cursor: pointer;}
+.header_nav{display: block;margin-left:434px;margin-top: -55px;list-style: none;}
+.header_nav li{margin-left: 70px;float: left;font-size: 16px;}
+.fixed:after{content: " "; display: block; clear: both;}
+
+.selec{margin-top:0px;width: 79px;height: 150px; display: none;z-index: 8;border: 1px solid black;list-style: none;position: absolute;background-color: white;}
+.selec a{font-size: 12px;display: block;margin-top: 10px;}
+.selec a:hover{color: red;}
+.header_nav ul li:hover .selec{display: block;}
+/*导航右边*/
+.header_right{margin-left: 1159px;margin-top: -17px; display: block;cursor: pointer;}
+.header_right img{width: 20px;height: 20px;}
+.header_right li{float: left;font-size: 15px;margin-left: 28px;}
+.xm{width: 100%; background-color: #d8d8d8;height: 51px;}
+.xm span{color: #8d8d8d; font-size: 16px;line-height: 51px;margin-left: 290px;}

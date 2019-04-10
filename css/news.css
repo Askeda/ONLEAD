@@ -1,0 +1,14 @@
+.main{width: 1200px;margin: auto;}
+.main_left{width: 250px;margin-left: 0px;margin-top: 0px;height: 491px;}
+.main_left span{font-size: 13px;margin-top: 5px;display: block;}
+.main_right{width: 850px;margin-left: 350px;margin-top: -941px;}
+.main_right img{width: 850px;height: 491px;}
+
+.text1{margin-left: 349px;width: 850px;height: 600px;}
+.text1 span{font-size: 14px; color: #767676;width: 850px;display: block;}
+.jian{width: 850px; margin: auto;}
+.jian_l{width: 100px;height: 30px;border: 1px solid black;margin-left: 0px;cursor: pointer;}
+.jian_l span{margin-left: 40px;margin-top: 4px;display: block; }
+
+.jian_r{width: 100px;height: 30px;border: 1px solid black;margin-left: 102px;margin-top: -32px;cursor: pointer;}
+.jian_r span{margin-left: 40px;margin-top: 4px;display: block; }

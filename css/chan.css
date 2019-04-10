@@ -1,0 +1,21 @@
+.bg{background-color: #f4f4f4;}
+.main{width: 1200px;margin:auto;}
+.left_ul{width:140px;border: 1px solid #e6e6e6;border-radius: 5px;}
+.left_ul li{width: 140px;height: 50px;}
+.left_ul li span{font-size: 14px;margin-top: 5px;line-height: 40px;cursor: pointer;}
+.left_ul li hr{margin-left: 8px;margin-top: 11px;}
+
+.main_img{width: 1039px;display: block;margin-left: 161px;margin-top: -453px;}
+.main_img img{width: 1039px;}
+.main_bunntm{width: 1039px;margin-left: 160px;}
+.main_bunntm ul{display: flex;justify-content: space-around;}
+.main_bunntm li{width: 345px;background-color: white;}
+.main_bunntm li img{width: 335px;margin-left: 5px;margin-top: 5px;display: block;}
+.main_bunntm li span{margin-left: 5px;margin-top: 5px;font-size: 13px;display: block;}
+
+.jian{width: 1200px; margin: auto;}
+.jian_l{width: 100px;height: 30px;border: 1px solid black;margin-left: 914px;cursor: pointer;}
+.jian_l span{margin-left: 40px;margin-top: 4px;display: block; }
+
+.jian_r{width: 100px;height: 30px;border: 1px solid black;margin-left: 1016px;margin-top: -32px;cursor: pointer;}
+.jian_r span{margin-left: 40px;margin-top: 4px;display: block; }
